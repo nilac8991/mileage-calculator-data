@@ -1,0 +1,11 @@
+{
+  "series": "interest_rate",
+  "frequency": "monthly",
+  "year": 2022,
+  "unit": "percent",
+  "note": "Applies from effective_from until the next row.",
+  "rows": [
+    {"month": "2022-02", "effective_from": "2022-02-07", "value": 8.6372},
+    {"month": "2022-06", "effective_from": "2022-06-06", "value": 8.7496}
+  ]
+}

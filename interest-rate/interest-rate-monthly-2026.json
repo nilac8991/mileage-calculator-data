@@ -1,0 +1,15 @@
+{
+  "series": "interest_rate",
+  "frequency": "monthly",
+  "year": 2026,
+  "unit": "percent",
+  "note": "Applies from effective_from until the next row.",
+  "rows": [
+    {"month": "2026-01", "effective_from": "2026-01-05", "value": 10.9092},
+    {"month": "2026-03", "effective_from": "2026-03-02", "value": 10.9106},
+    {"month": "2026-06", "effective_from": "2026-06-01", "value": 10.9467},
+    {"month": "2026-07", "effective_from": "2026-07-06", "value": 10.9467},
+    {"month": "2026-08", "effective_from": "2026-08-03", "value": 10.9467},
+    {"month": "2026-09", "effective_from": "2026-09-07", "value": 10.9481}
+  ]
+}

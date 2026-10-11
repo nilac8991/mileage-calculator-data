@@ -1,0 +1,15 @@
+{
+  "series": "energy_index",
+  "frequency": "monthly",
+  "year": 2026,
+  "base_month": "2026-01",
+  "note": "Index, base month = 100. Applies from effective_from until the next row.",
+  "rows": [
+    {"month": "2026-01", "effective_from": "2026-01-05", "value": 100.0},
+    {"month": "2026-03", "effective_from": "2026-03-02", "value": 101.0512},
+    {"month": "2026-06", "effective_from": "2026-06-01", "value": 100.2628},
+    {"month": "2026-07", "effective_from": "2026-07-06", "value": 105.2562},
+    {"month": "2026-08", "effective_from": "2026-08-03", "value": 117.2142},
+    {"month": "2026-09", "effective_from": "2026-09-07", "value": 119.1853}
+  ]
+}

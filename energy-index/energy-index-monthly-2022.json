@@ -1,0 +1,11 @@
+{
+  "series": "energy_index",
+  "frequency": "monthly",
+  "year": 2022,
+  "base_month": "2026-01",
+  "note": "Index, base month = 100. Applies from effective_from until the next row.",
+  "rows": [
+    {"month": "2022-02", "effective_from": "2022-02-07", "value": 77.2668},
+    {"month": "2022-06", "effective_from": "2022-06-06", "value": 90.5388}
+  ]
+}

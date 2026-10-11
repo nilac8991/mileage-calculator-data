@@ -1,64 +1,64 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-08-28T18:22:57Z",
+  "generated_at": "2026-10-11T17:18:11Z",
   "record_schema_version": 1,
   "latest_year": 2026,
   "tables": [
     {
       "year": 2026,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/v2026.1/aci_2026.json",
-      "sha256": "f64de225d5f93b3b272d34b407043a539b82377190fbd8eb303a0ee09217ff86",
-      "bytes": 1018162,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2026.2/vehicle-rates/vehicle-rates-2026.json",
+      "sha256": "60801c3631e79166d03be09d947f6adfe3c324a81ee6dcc4a37de860a1949634",
+      "bytes": 1028420,
       "vehicles": 5129,
       "makes": 123,
-      "revision": 1,
-      "updated": "2026-08-28",
+      "revision": 2,
+      "updated": "2026-10-11",
       "published": "2025-12-23",
       "source": "Gazzetta Ufficiale, Suppl. ord. n. 40 alla Serie generale n. 297 (23-12-2025)"
     },
     {
       "year": 2025,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/v2025.1/aci_2025.json",
-      "sha256": "a390a4753169d1209e452d8a69bb15216fb8a1e5f562c4ae316cd414db2ef320",
-      "bytes": 990584,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2025.2/vehicle-rates/vehicle-rates-2025.json",
+      "sha256": "691ff3b9f7968082f279ede2bc28d64fae37991a067cc806b15cb8c1f2349a68",
+      "bytes": 1000662,
       "vehicles": 5039,
       "makes": 112,
-      "revision": 1,
-      "updated": "2026-08-28",
+      "revision": 2,
+      "updated": "2026-10-11",
       "published": "2024-12-30",
       "source": "Gazzetta Ufficiale, Suppl. ord. n. 42 alla Serie generale n. 304 (30-12-2024)"
     },
     {
       "year": 2024,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/v2024.1/aci_2024.json",
-      "sha256": "8139eb48a3ca71c35d78a57c951cff1c24199862f8fccae1e4a0ef4798294a04",
-      "bytes": 897221,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2024.2/vehicle-rates/vehicle-rates-2024.json",
+      "sha256": "85589269d9e7911c7a6fc5663a333dd74edc8c040f0e0884f41a30e6efab4272",
+      "bytes": 906367,
       "vehicles": 4573,
       "makes": 105,
-      "revision": 1,
-      "updated": "2026-08-28",
+      "revision": 2,
+      "updated": "2026-10-11",
       "published": "2023-12-22",
       "source": "Gazzetta Ufficiale, Serie generale n. 298 (22-12-2023)"
     },
     {
       "year": 2023,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/v2023.1/aci_2023.json",
-      "sha256": "ab30c45e7c9f809e6bceb26a6e1732c7e8f0a11ddbed304c20362af246777cc3",
-      "bytes": 1129163,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2023.2/vehicle-rates/vehicle-rates-2023.json",
+      "sha256": "4ef35a8ab02e97a9b174b39ea000756d29fffa6f252d1c201dad62c41251376c",
+      "bytes": 1140751,
       "vehicles": 5794,
       "makes": 104,
-      "revision": 1,
-      "updated": "2026-08-28"
+      "revision": 2,
+      "updated": "2026-10-11"
     },
     {
       "year": 2022,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/v2022.1/aci_2022.json",
-      "sha256": "3e1bd45efc4d4b82e4e3bbdc2d97bdfa5b1feab3ba2f8605a563f294a51c3e87",
-      "bytes": 1390551,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2022.2/vehicle-rates/vehicle-rates-2022.json",
+      "sha256": "e524ce52e22f19a9c78ba34c9ea9630d910326d52b6139308cdbc2461985d4a6",
+      "bytes": 1404833,
       "vehicles": 7141,
       "makes": 106,
-      "revision": 1,
-      "updated": "2026-08-28"
+      "revision": 2,
+      "updated": "2026-10-11"
     }
   ]
 }

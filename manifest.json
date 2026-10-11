@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-10-11T17:29:13Z",
+  "generated_at": "2026-10-11T20:35:40Z",
   "record_schema_version": 1,
   "latest_year": 2026,
   "tables": [
@@ -58,6 +58,155 @@
       "vehicles": 7141,
       "makes": 106,
       "revision": 2,
+      "updated": "2026-10-11"
+    }
+  ],
+  "fuel_prices": [
+    {
+      "year": 2026,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/fuel-prices/fuel-prices-weekly-2026.json",
+      "sha256": "6048aaa8a8b3076d51a1cbc62a5ca110ef8caebd8303005469bfcb5c3e6f306a",
+      "bytes": 4355,
+      "rows": 40,
+      "first": "2026-01-05",
+      "last": "2026-10-05",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/fuel-prices/fuel-prices-weekly-2025.json",
+      "sha256": "9bce6b01a84affcc1a34569e7955f34b67fe3da68e684ff2eca8f0197117ec95",
+      "bytes": 5568,
+      "rows": 52,
+      "first": "2025-01-06",
+      "last": "2025-12-29",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2024,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/fuel-prices/fuel-prices-weekly-2024.json",
+      "sha256": "2a2101b89e73e95d082c2de176a1f2287bb31e5a8984a77537d5d795f790be39",
+      "bytes": 5677,
+      "rows": 53,
+      "first": "2024-01-01",
+      "last": "2024-12-30",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2023,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/fuel-prices/fuel-prices-weekly-2023.json",
+      "sha256": "32a86b9289977fcb01682a215c62c34de00ce9a96338c3fb9b38b946baa1c07c",
+      "bytes": 5422,
+      "rows": 52,
+      "first": "2023-01-01",
+      "last": "2023-12-25",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2022,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/fuel-prices/fuel-prices-weekly-2022.json",
+      "sha256": "12c40114fe8bbc16b04b0d7b473f280d1990b39d7858af74de7cce2ab78a796f",
+      "bytes": 5428,
+      "rows": 52,
+      "first": "2022-01-03",
+      "last": "2022-12-26",
+      "revision": 1,
+      "updated": "2026-10-11"
+    }
+  ],
+  "energy_index": [
+    {
+      "year": 2026,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/energy-index/energy-index-monthly-2026.json",
+      "sha256": "eb97d42c3c30e0c0e67b58094cdf80a36973f35d55ba57805d2e2c61f030e832",
+      "bytes": 661,
+      "rows": 6,
+      "first": "2026-01",
+      "last": "2026-09",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/energy-index/energy-index-monthly-2025.json",
+      "sha256": "570d8a75bb75842b78cf3735769ba67be06663a19cd663e2d867d538aa6b8f61",
+      "bytes": 733,
+      "rows": 7,
+      "first": "2025-02",
+      "last": "2025-12",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2024,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/energy-index/energy-index-monthly-2024.json",
+      "sha256": "df39e568255fa3350ed05c3d7ca6d17663d2569b7af50a6592404c6af64ff3e4",
+      "bytes": 430,
+      "rows": 3,
+      "first": "2024-10",
+      "last": "2024-12",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2022,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/energy-index/energy-index-monthly-2022.json",
+      "sha256": "6502129e4bd33811dcfc92b32577a062c55456a129f80f8ae06b7ca8c2751bb0",
+      "bytes": 354,
+      "rows": 2,
+      "first": "2022-02",
+      "last": "2022-06",
+      "revision": 1,
+      "updated": "2026-10-11"
+    }
+  ],
+  "interest_rate": [
+    {
+      "year": 2026,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/interest-rate/interest-rate-monthly-2026.json",
+      "sha256": "d51b3e6b7ef2ad08ae40c88eb211ca5b00f5057183d6e7ccdcfd43bb28962d98",
+      "bytes": 628,
+      "rows": 6,
+      "first": "2026-01",
+      "last": "2026-09",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/interest-rate/interest-rate-monthly-2025.json",
+      "sha256": "343e3313dc9ffe928fdb9d45ccd53184c964d8694085477069996bd3b55d9860",
+      "bytes": 703,
+      "rows": 7,
+      "first": "2025-02",
+      "last": "2025-12",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2024,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/interest-rate/interest-rate-monthly-2024.json",
+      "sha256": "db45e09b943207cc0d409260b0e58eb29c22f58d9a946585e9e559d10eb9b60a",
+      "bytes": 399,
+      "rows": 3,
+      "first": "2024-10",
+      "last": "2024-12",
+      "revision": 1,
+      "updated": "2026-10-11"
+    },
+    {
+      "year": 2022,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/02763b000a596738103fb5f63e6e2678cc22baa2/interest-rate/interest-rate-monthly-2022.json",
+      "sha256": "f8b461896883ae34eddd610eb5f7c327329d9e3f88c5374389882d35724caef8",
+      "bytes": 322,
+      "rows": 2,
+      "first": "2022-02",
+      "last": "2022-06",
+      "revision": 1,
       "updated": "2026-10-11"
     }
   ]

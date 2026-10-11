@@ -1,12 +1,12 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-10-11T17:18:11Z",
+  "generated_at": "2026-10-11T17:29:13Z",
   "record_schema_version": 1,
   "latest_year": 2026,
   "tables": [
     {
       "year": 2026,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2026.2/vehicle-rates/vehicle-rates-2026.json",
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/vehicle-rates-2026.2/vehicle-rates/vehicle-rates-2026.json",
       "sha256": "60801c3631e79166d03be09d947f6adfe3c324a81ee6dcc4a37de860a1949634",
       "bytes": 1028420,
       "vehicles": 5129,
@@ -18,7 +18,7 @@
     },
     {
       "year": 2025,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2025.2/vehicle-rates/vehicle-rates-2025.json",
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/vehicle-rates-2025.2/vehicle-rates/vehicle-rates-2025.json",
       "sha256": "691ff3b9f7968082f279ede2bc28d64fae37991a067cc806b15cb8c1f2349a68",
       "bytes": 1000662,
       "vehicles": 5039,
@@ -30,7 +30,7 @@
     },
     {
       "year": 2024,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2024.2/vehicle-rates/vehicle-rates-2024.json",
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/vehicle-rates-2024.2/vehicle-rates/vehicle-rates-2024.json",
       "sha256": "85589269d9e7911c7a6fc5663a333dd74edc8c040f0e0884f41a30e6efab4272",
       "bytes": 906367,
       "vehicles": 4573,
@@ -42,7 +42,7 @@
     },
     {
       "year": 2023,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2023.2/vehicle-rates/vehicle-rates-2023.json",
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/vehicle-rates-2023.2/vehicle-rates/vehicle-rates-2023.json",
       "sha256": "4ef35a8ab02e97a9b174b39ea000756d29fffa6f252d1c201dad62c41251376c",
       "bytes": 1140751,
       "vehicles": 5794,
@@ -52,7 +52,7 @@
     },
     {
       "year": 2022,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/vehicle-rates-2022.2/vehicle-rates/vehicle-rates-2022.json",
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/vehicle-rates-2022.2/vehicle-rates/vehicle-rates-2022.json",
       "sha256": "e524ce52e22f19a9c78ba34c9ea9630d910326d52b6139308cdbc2461985d4a6",
       "bytes": 1404833,
       "vehicles": 7141,

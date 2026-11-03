@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-10-27T19:26:18Z",
+  "generated_at": "2026-11-03T20:30:07Z",
   "record_schema_version": 1,
   "latest_year": 2026,
   "tables": [
@@ -64,14 +64,14 @@
   "fuel_prices": [
     {
       "year": 2026,
-      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/d75fd40b76d781b16a57714868757fa25d19d156/fuel-prices/fuel-prices-weekly-2026.json",
-      "sha256": "afc14c302087bc8aa65a28fb4cfd4dae066a902cd53e3c0d20c279fdda8d7fcd",
-      "bytes": 4661,
-      "rows": 43,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-data/4946f79ab3467d5097b1fb1c1851ebff60a13f15/fuel-prices/fuel-prices-weekly-2026.json",
+      "sha256": "84023994a15a34c028e5e0d8d4c6b1bc5495bd387a29e999ad0ff1d2a37b556b",
+      "bytes": 4763,
+      "rows": 44,
       "first": "2026-01-05",
-      "last": "2026-10-26",
-      "revision": 4,
-      "updated": "2026-10-27"
+      "last": "2026-11-02",
+      "revision": 5,
+      "updated": "2026-11-03"
     },
     {
       "year": 2025,
